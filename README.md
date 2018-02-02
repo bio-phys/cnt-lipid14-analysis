@@ -19,4 +19,4 @@ Required geometry functions
 # Literature
  - M. Vögele, J. Köfinger, G. Hummer: 
    Simulations of Carbon Nanotube Porins in Lipid Bilayers.
-   Faraday Discussions, 2018 (to be submitted)
+   Faraday Discussions, (submitted, February 2018)
