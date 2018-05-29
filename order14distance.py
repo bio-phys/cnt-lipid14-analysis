@@ -111,7 +111,7 @@ class Tail(object):
                 order = np.mean(np.array(sz))
                 
                 # Calculate the distance to the CNT
-                com_lip = res.center_of_mass()
+                com_lip = res.atoms.center_of_mass()
                 dist    = geometry.dist_point_line_pbc(com_lip,com_cnt,pax_cnt,box_dim)
                 
                 # Append the order parameter to the respective distance range
