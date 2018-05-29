@@ -114,7 +114,7 @@ class Tail(object):
                 order = np.mean(np.array(sz))
                 
                 # Calculate the distance to the CNTs
-                com_lip = res.center_of_mass()
+                com_lip = res.atoms.center_of_mass()
                 
                 range_index = len(order_d)-1
                 
